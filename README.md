@@ -58,7 +58,7 @@ This project aims to:
  Matplotlib, Seaborn  
  Scikit-learn  
  TensorFlow / Keras  
- yfinance  
+ NASDAQ
 
 
 
