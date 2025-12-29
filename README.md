@@ -25,8 +25,8 @@ This project aims to:
 
 | Category | Algorithms |
 |-----------|-------------|
-| **Traditional ML** | Linear Regression, Random Forest Regressor, Support Vector Regressor |
-| **Deep Learning** | LSTM.
+| **Traditional ML** | Linear Regression|
+| **Deep Learning** | LSTM, BiLSTM
 
 
 ## 📊 Dataset
